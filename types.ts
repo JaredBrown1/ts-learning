@@ -13,3 +13,7 @@
 // object
 // {age: 30}
 // Any JS object, more specific types {type of object} are possible
+
+// Array
+// [1,2,3]
+// Any JS array, type can be flexible or strict (regarding the element types)
