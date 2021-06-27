@@ -9,3 +9,7 @@
 // boolean
 // true, false
 // just these two, no 'truthy" or "falsy" values
+
+// object
+// {age: 30}
+// Any JS object, more specific types {type of object} are possible
